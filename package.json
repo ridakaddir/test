@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-test",
+  "version": "0.0.1",
+  "description": "Node.js sample app for OpenShift 3",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ridakaddir/test.git"
+  },
+  "author": "rida kaddir",
+  "license": "CC-BY-1.0",
+  "homepage": "https://github.com/ridakaddir/test"
+}
